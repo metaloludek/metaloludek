@@ -8,7 +8,7 @@ I'm Peter, a production planning specialist taking my first steps in programming
   - other IT stuff
 
 - 📫 How to reach me:
-  - [mail to me](mailto:72600@gwsh.pl?subject=[GitHub]%20Source%20Piotr%20S)
+  - [mail to me](mailto:72600@gwsh.pl?subject=[GitHub]%20Source%20metaloludek)
 
 <!--
 **metaloludek/metaloludek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

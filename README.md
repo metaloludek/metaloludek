@@ -3,8 +3,10 @@
 I'm Peter, a production planning specialist taking my first steps in programming.
 
 - 🌱 I’m currently learning:
-  - basic Python
-  - basic C#
+  - Python
+  - C#
+  - Java
+  - Kotlin
   - other IT stuff
 
 - 📫 How to reach me:
